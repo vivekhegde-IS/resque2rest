@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rescue2Rest</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header class="head">
+        <div class="logo">
+            <img class="dlogo" src="ChatGPT Image Apr 11, 2025, 12_17_06 PM.png" alt="dog rescue image">
+        </div>
+        <div class="quote">
+            <h2>
+                "Saving One Dog Will Not Change The World, But It Will Change The Dog's World Forever"
+            </h2>
+        </div>
+    </header>
+
+
+
+    <!-- navigation ka html -->
+    <nav class="dog-nav">
+        <div class="dlist">
+            <ul>
+                <li>Home</li>
+                <li>About Us</li>
+                <li>Adoption</li>
+                <li>Trackers</li>
+                <li>Help</li>
+            </ul>
+        </div>
+
+    </nav>
+
+    <main>
+        <div class="slideshow">
+            <img src="https://imgs.search.brave.com/D1ZXp3EFwQkhmoXYh7UUtmqKP2BEJ9umoVMrZHy82V8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1LzAwLzA1LzI1/LzM2MF9GXzUwMDA1/MjU4Nl9XcWttTHd4/TWFWU0E0TWpwWmly/YUJmUzdYRmhpZUtz/Zy5qcGc"
+                class="slide" />
+            <img src="https://imgs.search.brave.com/mGCWUXy4HIDUpdkw5fEYLn2Teaa9KDMJa0dO0IxPmeA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTM1/MTUyODY3OC9waG90/by9hLXN0cmVldC1k/b2ctaW1hZ2Utb24t/cm9hZC5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9Sy1oX3VN/MUlrWUJ6TjZCV1Ft/WWx5UFhLX2M1UWpQ/ZVhNZFZGZERnNUo2/az0"
+                class="slide" />
+            <img src="https://imgs.search.brave.com/o6f1xXUb2O7su-qkVwcs2KJSxp6xbjwOz5IbsOdD2CI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQzL2Ix/LzdlLzQzYjE3ZWVl/YjQyZjNlYWVjYjVl/MzQ1NzFhY2E4MmRk/LmpwZw"
+                class="slide" />
+        </div>
+        <div class="text-over-slideshow">
+            <p>"At Rescue2Rest, we believe every dog deserves a second chance. Our mission is to rescue, rehabilitate,
+                and rehome dogs in need, providing them with the love and care they deserve. We work tirelessly to
+                ensure that each dog is given the best opportunity to find a forever home. Whether you're looking to
+                adopt or just want to support a cause close to your heart, we invite you to join us in our journey of
+                compassion and care. Together, we can make a difference, one paw at a time.".</p>
+
+        </div>
+    </main>
+
+    <footer>
+        <div>
+            <p>&copy All Rights Are Reserved</p>
+        </div>
+        <div>
+            <p>Provided By Pai and Hegde Associates</p>
+        </div>
+    </footer>
+
+</body>
+
+</html>
